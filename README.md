@@ -5,8 +5,8 @@ The aim of this project is to develop essential digital skills required for stud
 
 The project is divided into five tasks. It includes creating an infographic to spread awareness about digital literacy, building a digital portfolio using platforms like GitHub and LinkedIn, exploring coding and collaboration tools, drafting professional emails along with a social media etiquette checklist, and finally, preparing a cybercrime case study with a prevention guide.
 
-Name:- Tanmay Sharda
-Registration Number:-25BAI11394
+Name:- Adhiraj Singh
+Registration Number:-25BCE10088
 
 Module 1:- Hands-on Training on Presentation Software
 The first module focuses on basics which incluse what is Dgital literacy itself then it began with an introduction to digital literacy, emphasizing the ability to effectively use digital technologies for communication, content creation, and information sharing.
@@ -23,7 +23,7 @@ Academic and research-oriented platforms such as ResearchGate and Wiki Education
 Module 3:- Programming Platforms and Collaborative Learning Platforms
 In this module we focused collaborative digital tools and introducing platforms that support programming practice and skill development.
 
-The module began with an overview of Google Workspace, highlighting its role in enabling collaboration. Tools such as Google Docs were used for creating and editing documents collaboratively, allowing multiple users to work simultaneously. Google Slides helped in designing and sharing presentations in real time, while Google Sheets was introduced for data organization, analysis, and visualization. A practical demonstration of Google Forms showed how to create surveys, quizzes, and feedback forms, as well as how to collect and analyze responses efficiently below is a google form which i created for Task-3 which was mentioned in our project https://docs.google.com/forms/d/e/1FAIpQLScBxMc3kfG_pBSkeNee7SzrXnevCoVswKPJmgh02TXSlxeQ0A/viewform?usp=publish-editor
+The module began with an overview of Google Workspace, highlighting its role in enabling collaboration. Tools such as Google Docs were used for creating and editing documents collaboratively, allowing multiple users to work simultaneously. Google Slides helped in designing and sharing presentations in real time, while Google Sheets was introduced for data organization, analysis, and visualization. A practical demonstration of Google Forms showed how to create surveys, quizzes, and feedback forms, as well as how to collect and analyze responses efficiently below is a google form which i created for Task-3 which was mentioned in our project https://docs.google.com/forms/d/e/1FAIpQLSfYyTWAdI57lsgY5eiy7JehIYs5C7s1-YVGnyPgs1VmoNN9_Q/viewform?usp=header
 
 In addition to collaboration tools, the module provided an overview of various programming and competitive coding platforms. HackerRank and HackerEarth were introduced as platforms for practicing coding problems, improving problem-solving skills, and participating in contests. Similarly, CodeChef and Code Tantra were discussed for their role in coding practice, assessments, and structured learning environments these platforms are often used to improve problem solving approches which makes learning coding a cake walk.
 
